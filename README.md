@@ -101,10 +101,8 @@ Suggested improvements:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
+Attila Asghari - [@attila_asghari](https://www.instagram.com/attila_asghari/) - attilaasghari@gmail.com
 
 Project Link: [https://github.com/attilaasghari/Sorting-Algorithms-Simulator](https://github.com/attilaasghari/Sorting-Algorithms-Simulator)
 
 ---
-
-Made with ❤️ and Python. Special thanks to the Python community for amazing libraries!
