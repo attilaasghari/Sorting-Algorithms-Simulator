@@ -5,7 +5,7 @@
 
 A interactive visualization tool for sorting algorithms implemented with Python GUI
 
-![Demo Screenshot](./assets/screenshot-1.PNG) 
+![Demo Screenshot](./assets/screenshot-2.PNG) 
 
 ## 🌟 Features
 
@@ -44,7 +44,7 @@ A interactive visualization tool for sorting algorithms implemented with Python 
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/sorting-algorithms-simulator.git
+git clone https://github.com/attilaasghari/Sorting-Algorithms-Simulator.git
 cd sorting-algorithms-simulator
 ```
 2. Install required packages:
@@ -71,7 +71,7 @@ python main.py
 
 | Main Interface | About Window |
 |----------------|--------------|
-| ![Main UI](./assets/screenshot-2.PNG) | ![About](./assets/about.PNG) |
+| ![Main UI](./assets/screenshot-1.PNG) | ![About](./assets/about.PNG) |
 
 ## 🛠️ Development
 
@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📧 Contact
 Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
 
-Project Link: [https://github.com/your-username/sorting-algorithms-simulator](https://github.com/your-username/sorting-algorithms-simulator)
+Project Link: [https://github.com/attilaasghari/Sorting-Algorithms-Simulator](https://github.com/attilaasghari/Sorting-Algorithms-Simulator)
 
 ---
 
