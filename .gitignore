@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+/build/
+/dist/
+/*.spec
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+# Ignore compiled executables (keep source only)
+SortingAlgorithmSimulator
+SortingAlgorithmSimulator.exe
+SortingAlgorithmSimulator.app
+
+# Ignore icon files if you don't want to track them
+icon.ico
+
+# Ignore screenshots if you generate them locally but don't want to commit
+screenshots/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*~
