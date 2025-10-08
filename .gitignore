@@ -66,11 +66,7 @@ SortingAlgorithmSimulator
 SortingAlgorithmSimulator.exe
 SortingAlgorithmSimulator.app
 
-# Ignore icon files if you don't want to track them
-icon.ico
 
-# Ignore screenshots if you generate them locally but don't want to commit
-screenshots/
 
 # Ignore temporary files
 *.tmp
